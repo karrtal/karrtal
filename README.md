@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello there! 👋
 
-<!--
-**karrtal/karrtal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Oguzhan!
 
-Here are some ideas to get you started:
+- 🔭 Currently working on **open source projects**.
+- 🌱 Learning: **C, Git, and Linux**.
+- 💬 Ask me about: **programming and contributing to open source**.
+- 📫 How to reach me: fideoguzhan@gmail.com
+- ⚡ Fun fact: I enjoy learning and experimenting with new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming Languages: **C, Python (beginner level)**
+- Tools: **Git, VS Code, GCC**
+
+Feel free to check out my repositories and reach out if you'd like to collaborate!
